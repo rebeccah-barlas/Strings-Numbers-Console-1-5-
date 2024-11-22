@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\bin\Debug\net8.0\Strings, Numbers, Console 1-5.exe
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\bin\Debug\net8.0\Strings, Numbers, Console 1-5.deps.json
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\bin\Debug\net8.0\Strings, Numbers, Console 1-5.runtimeconfig.json
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\bin\Debug\net8.0\Strings, Numbers, Console 1-5.dll
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\bin\Debug\net8.0\Strings, Numbers, Console 1-5.pdb
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\obj\Debug\net8.0\Strings, Numbers, Console 1-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\obj\Debug\net8.0\Strings, Numbers, Console 1-5.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\obj\Debug\net8.0\Strings, Numbers, Console 1-5.AssemblyInfo.cs
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\obj\Debug\net8.0\Strings, Numbers, Console 1-5.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\obj\Debug\net8.0\Strings, Numbers, Console 1-5.dll
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\obj\Debug\net8.0\refint\Strings, Numbers, Console 1-5.dll
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\obj\Debug\net8.0\Strings, Numbers, Console 1-5.pdb
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\obj\Debug\net8.0\Strings, Numbers, Console 1-5.genruntimeconfig.cache
+C:\Users\barla\source\repos\Strings, Numbers, Console 1-5\Strings, Numbers, Console 1-5\obj\Debug\net8.0\ref\Strings, Numbers, Console 1-5.dll
